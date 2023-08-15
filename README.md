@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShariqRaihan
+- 👀 I’m interested in becoming a data analyst, and eventually a data scientist. 
+- 🌱 I’m currently learning different programing languages such as Python, R, and SQL, learning packages and tools like pandas, numpy, relational databases and machine learning, as well as different softwares such as Tablaeu and PowerBI
+- 📫 How to reach me: email - shariqr2001@gmail.com
